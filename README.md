@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhammad-fahri-dika-yuda-b91aab216/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-fahri-dika-yuda-b91aab216/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/muhammadfahridy#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/muhammadfahridy#gh-dark-mode-only)
