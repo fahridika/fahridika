@@ -2,7 +2,7 @@
 # Hi there, I'm Muhammad Fahri Dika Yuda 👋
 ## About me:
 - 🔭 I’m Student at Semarang State Polytechnic
-- 🌱 I’m currently learning Python, Data Science
+- 🌱 I’m currently learning Python, Data Science, Mahine Learning, Data Mining
 - 🤔 I’m looking for Intern for AI, Machine Learning, and Data Science.
 - 💬 Ask me about anything
 - 📫 How to reach me: gunaon01@gmail.com
