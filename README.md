@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Muhammad Fahri Dika Yuda 👋
 ## About me:
 - 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🌱 I’m currently learning Python, Data Science
+- 🤔 I’m looking for Intern for AI, Machine Learning, and Data Science.
 - 💬 Ask me about anything
 - 📫 How to reach me: gunaon01@gmail.com
