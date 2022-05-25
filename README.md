@@ -1,7 +1,7 @@
 
 # Hi there, I'm Muhammad Fahri Dika Yuda 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🔭 I’m Student at Semarang State Polytechnic
 - 🌱 I’m currently learning Python, Data Science
 - 🤔 I’m looking for Intern for AI, Machine Learning, and Data Science.
 - 💬 Ask me about anything
