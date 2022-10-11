@@ -1,5 +1,5 @@
 
-# Hi there, I'm Muhammad Fahri Dika Yuda 👋
+# Hi there, I'm Gunawan Saputro 👋
 ## About me:
 - 🔭 I’m Student at Semarang State Polytechnic
 - 🌱 I’m currently learning Python, Data Science, Mahine Learning, Data Mining
