@@ -1,5 +1,5 @@
 
-# Hi there, I'm Gunawan Saputro 👋
+# Hi there, I'm Muhammad Fahri Dika Yuda 👋
 ## About me:
 - 🔭 I’m Student at UNNES
 - 🌱 I’m currently learning Python, Data Science, Mahine Learning, Data Mining
