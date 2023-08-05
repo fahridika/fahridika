@@ -1,7 +1,7 @@
 
 # Hi there, I'm Muhammad Fahri Dika Yuda 👋
 ## About me:
-- 🔭 I’m Student at UNNES
+- 🔭 I’m Student at POLINES
 - 🌱 I’m currently learning Python, Data Science, Mahine Learning, Data Mining
 - 🤔 I’m looking for Intern for AI, Machine Learning, and Data Science.
 - 💬 Ask me about anything
